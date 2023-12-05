@@ -1,1 +1,1 @@
-# sql-training
+Hello, world!
